@@ -19,6 +19,10 @@ A simple command-line Python app that displays a random motivational, coding, or
 3. Open terminal / command prompt and navigate to the folder.
 4. Run the script with:
 
+```bash
+python quote_generator.py
+```
+
 ---
 
 ## 📚 Concepts Used
